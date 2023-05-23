@@ -1,0 +1,70 @@
+{
+  "3e990f5f-a334-4e3e-960b-5ba326f81694": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Planner",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1608/1.0.1608.3079/planner/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_planner",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {},
+    "dataSources": [
+      "Planner"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "3e990f5f-a334-4e3e-960b-5ba326f81694"
+  },
+  "631c0fb0-c91e-4afb-8b11-cba5d6872f5e": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Office 365 Users",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1626/1.0.1626.3238/office365users/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365users",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {},
+    "dataSources": [
+      "Office365Users"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "631c0fb0-c91e-4afb-8b11-cba5d6872f5e"
+  },
+  "7492cf69-cc78-477d-9fc8-986387722984": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "OneNote (Business)",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1613/1.0.1613.3125/onenote/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_onenote",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {},
+    "dataSources": [
+      "OneNote(Business)"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "7492cf69-cc78-477d-9fc8-986387722984"
+  },
+  "88440dcb-31dd-4475-b013-ba3ac5e68e51": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Office 365 Outlook",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1626/1.0.1626.3238/office365/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {},
+    "dataSources": [
+      "Office365"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "88440dcb-31dd-4475-b013-ba3ac5e68e51"
+  }
+}
