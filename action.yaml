@@ -54,10 +54,10 @@ runs:
       uses: microsoft/powerplatform-actions/who-am-i@v0
       with:
         environment-url: ${{env.ppEnvironmentUrl}}
-        tenant-id: ${{env.tenantId}}
+        tenant-id: ${{env.ppTenantId}}
         app-id: ${{env.ppApplicationId}}
         client-secret: ${{env.ppClientSecret}}
- 
+        
     - name: Find Power Platform solution file
       env:
         _artifactPath: ${{inputs.artifactPath}}
