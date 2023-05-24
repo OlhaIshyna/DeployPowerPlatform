@@ -206,9 +206,3 @@ WelcomeScreen As screen:
             Y: =61+0
             ZIndex: =3
 
-    Form1 As form:
-        Height: =64
-        X: =334
-        Y: =684
-        ZIndex: =9
-
